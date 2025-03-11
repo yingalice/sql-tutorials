@@ -1,0 +1,2 @@
+- Following along with SQL tutorials on YouTube
+- Each tutorial folder has an individual README.md
